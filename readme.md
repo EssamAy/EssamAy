@@ -20,29 +20,7 @@
 <br>
 
 <h2>🛠 Technologies I use </h2>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/java.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/spring-boot.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/javascript.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/typescript.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/nextjs.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/angular.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/react.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/expressjs.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/php.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/laravel.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/ionic.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/elasticsearch.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/jenkins.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/docker.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/kubernetes.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/html.png'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/css.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/bootstrap.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/tailwind.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/postgres.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/mysql.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/mongodb.svg'>
-<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/aws.svg'>
+<img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/java.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/spring-boot.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/javascript.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/typescript.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/nextjs.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/angular.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/react.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/expressjs.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/php.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/laravel.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/ionic.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/elasticsearch.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/jenkins.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/docker.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/kubernetes.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/html.png'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/css.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/bootstrap.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/tailwind.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/postgres.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/mysql.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/mongodb.svg'><img width ='32px' src ='https://essamayari.com/icons/languages_and_frameworks/aws.svg'>
 
 <br>
 
